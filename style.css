@@ -8,9 +8,26 @@ article {
   border-radius: 1rem;
 }
 
+img {
+  max-width: 100%;
+  border-radius: 0.5rem;
+}
+
+.prep-time {
+  background-color: hsl(330, 100%, 98%);
+  padding: 1rem;
+}
+
+h3 {
+  color: hsl(14, 45%, 36%);
+}
 
 
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution {
+  font-size: 11px;text-align: center;
+}
 
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
